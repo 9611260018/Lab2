@@ -9,7 +9,20 @@ import edu.illinois.cs.cs125.lib.mazemaker.Maze;
  */
 @SuppressWarnings("checkstyle:emptyblock")
 public class SolveMaze {
-
+    public class SolveMaze {while (isFinished() == false){
+        turn right()
+        if (canMove==true){
+            Move;}
+    }else { turn right(2)
+        If (canMove==true){
+            Move;}}
+    }else{ turn right()
+        if (canMove==true){
+            Move;}}
+}else{ turn right(2)
+        If (canMove==true){
+        Move}}
+        }
     /**
      * Implement your maze solving algorithm in the main method below.
      *
